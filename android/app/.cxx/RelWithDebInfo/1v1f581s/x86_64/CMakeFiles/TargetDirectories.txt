@@ -1,0 +1,2 @@
+C:/Users/PCMOD/Desktop/wordup_flutter_test/android/app/.cxx/RelWithDebInfo/1v1f581s/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/PCMOD/Desktop/wordup_flutter_test/android/app/.cxx/RelWithDebInfo/1v1f581s/x86_64/CMakeFiles/rebuild_cache.dir
